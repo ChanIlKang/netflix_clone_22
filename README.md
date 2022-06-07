@@ -1,2 +1,3 @@
 # netflix_clone_22
-cloning netflix. HTML CSS.
+---
+Clone-coding the Netflix website using html and css.
